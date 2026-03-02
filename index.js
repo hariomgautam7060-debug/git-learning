@@ -10,3 +10,6 @@ function fun(){
     console.log("hariom gautam");
     
 }
+// i am fixing some bugs
+console.log("bug fix");
+
