@@ -4,3 +4,6 @@ function haro(){
     console.log("hello");
     
 }
+
+const age=20;
+
