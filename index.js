@@ -6,4 +6,7 @@ function haro(){
 }
 
 const age=20;
-
+function fun(){
+    console.log("hariom gautam");
+    
+}
